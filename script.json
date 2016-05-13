@@ -7,7 +7,7 @@
     "GOOD, YOU?": "Yeah not too bad thanks haha",
     "I LOVE YOU": "Awh, shucks! I love you too!",
     "DICK": "Who are you calling a dick? Why can't we just be friends, huh?",
-    "GOOGLE": "Here's Google for ya"%[Open Google](www.google.co.uk),
+    "GOOGLE": "Here's Google for ya" %[Open Google](www.google.co.uk),
     "CONNECT ME": "",
     "DISCONNECT": "Haha I'm back."
 }
