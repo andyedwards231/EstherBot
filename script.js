@@ -63,7 +63,7 @@ module.exports = new Script({
                 }
 
                 if (!_.has(scriptRules, upperText)) {
-                    return bot.say(`Not quite sure what you mean mate, sorry.`).then(() => 'speak');
+                    return bot.say(I'm still learning, I don't fully understand everything yet, sorry. But everytime you talk to me, I learn more... `).then(() => 'speak');
                 }
 
                 var response = scriptRules[upperText];
